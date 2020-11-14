@@ -1,0 +1,2 @@
+# recruitCommonRepository
+唯才是举项目代码公共仓库
